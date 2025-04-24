@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gender Prediction Form</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+    <div class="container">
+        <h1>Enter Required Details</h1>
+        <form action="{{ url_for('predict_datapoint') }}" method="POST">
+            
+            <label for="Favorite_Color">Favorite Color:</label>
+            <select id="Favorite_Color" name="Favorite_Color" required>
+                <option value="Neutral">Neutral</option>
+                <option value="Warm">Warm</option>
+                <option value="Cool">Cool</option>
+            </select>
+
+            <label for="Favorite_Music_Genre">Favorite Music Genre:</label>
+            <select id="Favorite_Music_Genre" name="Favorite_Music_Genre" required>
+                <option value="Jazz/Blues">Jazz/Blues</option>
+                <option value="Folk/Traditional">Folk/Traditional</option>
+                <option value="R&B and soul">R&B and soul</option>
+                <option value="Hip hop">Hip hop</option>
+                <option value="Electronic">Electronic</option>
+                <option value="Rock">Rock</option>
+                <option value="Pop">Pop</option>
+            </select>
+
+            <label for="Favorite_Beverage">Favorite Beverage:</label>
+            <select id="Favorite_Beverage" name="Favorite_Beverage" required>
+                <option value="Vodka">Vodka</option>
+                <option value="Whiskey">Whiskey</option>
+                <option value="Wine">Wine</option>
+                <option value="Other">Other</option>
+                <option value="Beer">Beer</option>
+                <option value="Doesn't drink">Doesn't drink</option>
+            </select>
+
+            <label for="Favorite_Soft_Drink">Favorite Soft Drink:</label>
+            <select id="Favorite_Soft_Drink" name="Favorite_Soft_Drink" required>
+                <option value="Other">Other</option>
+                <option value="7UP/Sprite">7UP/Sprite</option>
+                <option value="Fanta">Fanta</option>
+                <option value="Coca Cola/Pepsi">Coca Cola/Pepsi</option>
+            </select>
+
+            <button type="submit" class="btn">Predict Gender</button>
+        </form>
+    </div>
+
+</body>
+</html>

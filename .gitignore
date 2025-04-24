@@ -1,0 +1,15 @@
+# Ignore virtual environment
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Pickle files
+*.pkl
+
+# Log files
+*.log
+
+# Artifacts
+artifacts/
