@@ -1,0 +1,23 @@
+[2025-04-24 17:27:01,305] 22 root - INFO - Logging setup completed successfully!
+[2025-04-24 17:27:03,126] 97 werkzeug - WARNING -  * Debugger is active!
+[2025-04-24 17:27:03,136] 97 werkzeug - INFO -  * Debugger PIN: 127-551-741
+[2025-04-24 17:27:14,625] 97 werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 17:27:14] "GET /predict HTTP/1.1" 200 -
+[2025-04-24 17:27:14,796] 97 werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 17:27:14] "GET /static/style.css HTTP/1.1" 200 -
+[2025-04-24 17:27:17,010] 46 root - INFO - DataFrame created from user input
+[2025-04-24 17:27:17,316] 97 werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 17:27:17] "POST /predict HTTP/1.1" 200 -
+[2025-04-24 17:27:17,342] 97 werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 17:27:17] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2025-04-24 17:47:58,556] 97 werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 17:47:58] "GET /predict HTTP/1.1" 200 -
+[2025-04-24 17:47:58,706] 97 werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 17:47:58] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2025-04-24 17:48:03,351] 46 root - INFO - DataFrame created from user input
+[2025-04-24 17:48:03,445] 97 werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 17:48:03] "POST /predict HTTP/1.1" 200 -
+[2025-04-24 17:48:03,487] 97 werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 17:48:03] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2025-04-24 17:57:11,482] 97 werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 17:57:11] "GET /predict HTTP/1.1" 200 -
+[2025-04-24 17:57:11,522] 97 werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 17:57:11] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2025-04-24 17:57:25,880] 46 root - INFO - DataFrame created from user input
+[2025-04-24 17:57:25,904] 97 werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 17:57:25] "POST /predict HTTP/1.1" 200 -
+[2025-04-24 17:57:25,945] 97 werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 17:57:25] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2025-04-24 17:57:29,983] 97 werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 17:57:29] "GET / HTTP/1.1" 200 -
+[2025-04-24 17:57:30,031] 97 werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 17:57:30] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2025-04-24 17:57:32,824] 97 werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 17:57:32] "GET /predict HTTP/1.1" 200 -
+[2025-04-24 17:57:32,878] 97 werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 17:57:32] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2025-04-24 18:06:23,666] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\mk744\\OneDrive - Poornima University\\Desktop\\IdentifyGender\\app_1.py', reloading

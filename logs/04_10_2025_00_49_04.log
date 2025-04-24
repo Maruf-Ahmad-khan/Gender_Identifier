@@ -1,0 +1,10 @@
+[2025-04-10 00:49:04,225] 22 root - INFO - Logging setup completed successfully!
+[2025-04-10 00:49:07,169] 97 werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.9:5000
+[2025-04-10 00:49:07,169] 97 werkzeug - INFO - [33mPress CTRL+C to quit[0m
+[2025-04-10 00:49:07,169] 97 werkzeug - INFO -  * Restarting with stat
+[2025-04-10 00:58:33,989] 97 werkzeug - INFO -  * Restarting with stat
+[2025-04-10 00:58:56,369] 97 werkzeug - INFO -  * Restarting with stat
+[2025-04-10 01:00:22,642] 97 werkzeug - INFO -  * Restarting with stat

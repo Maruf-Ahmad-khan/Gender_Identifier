@@ -1,0 +1,11 @@
+[2025-04-24 15:37:00,204] 22 root - INFO - Logging setup completed successfully!
+[2025-04-24 15:37:02,681] 97 werkzeug - WARNING -  * Debugger is active!
+[2025-04-24 15:37:02,692] 97 werkzeug - INFO -  * Debugger PIN: 296-058-325
+[2025-04-24 15:37:14,384] 97 werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 15:37:14] "GET /predict HTTP/1.1" 200 -
+[2025-04-24 15:37:14,624] 97 werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 15:37:14] "GET /static/style.css HTTP/1.1" 200 -
+[2025-04-24 15:37:14,682] 97 werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 15:37:14] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2025-04-24 15:37:33,808] 46 root - INFO - DataFrame created from user input
+[2025-04-24 15:37:35,147] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\mk744\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\sklearn\\base.py', reloading
+[2025-04-24 15:37:35,152] 62 root - INFO - Exception occurred in load_object function
+[2025-04-24 15:37:35,152] 26 root - INFO - Exception occured in prediction
+[2025-04-24 15:37:35,189] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\mk744\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\flask\\app.py', reloading

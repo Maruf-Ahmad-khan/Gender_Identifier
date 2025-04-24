@@ -1,0 +1,14 @@
+[2025-04-10 00:23:14,342] 22 root - INFO - Logging setup completed successfully!
+[2025-04-10 00:23:15,647] 26 root - INFO - Data Ingestion methods Starts
+[2025-04-10 00:23:15,680] 29 root - INFO - Dataset read as pandas DataFrame
+[2025-04-10 00:23:15,680] 33 root - INFO - Train test split
+[2025-04-10 00:23:15,695] 38 root - INFO - Data Ingestion Completed
+[2025-04-10 00:23:15,713] 68 root - INFO - Read train and test data completed
+[2025-04-10 00:23:15,713] 69 root - INFO - Obtaining preprocessing object
+[2025-04-10 00:23:15,713] 26 root - INFO - Data Transformation initiated
+[2025-04-10 00:23:15,713] 35 root - INFO - Pipeline Initiated
+[2025-04-10 00:23:15,727] 90 root - INFO - Applied preprocessing to train and test
+[2025-04-10 00:23:15,727] 100 root - INFO - Saved preprocessor to pkl
+[2025-04-10 00:23:15,727] 34 root - INFO - Splitting Dependent and Independent variables from train and test data
+[2025-04-10 00:23:16,242] 78 root - INFO - Best Model: LogisticRegression with F1 Score: 60.00%
+[2025-04-10 00:23:16,245] 86 root - INFO - Saved the best model successfully.

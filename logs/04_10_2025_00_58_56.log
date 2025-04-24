@@ -1,0 +1,7 @@
+[2025-04-10 00:58:56,798] 22 root - INFO - Logging setup completed successfully!
+[2025-04-10 00:58:58,591] 97 werkzeug - WARNING -  * Debugger is active!
+[2025-04-10 00:58:58,604] 97 werkzeug - INFO -  * Debugger PIN: 116-191-672
+[2025-04-10 00:59:05,318] 46 root - INFO - DataFrame created from user input
+[2025-04-10 00:59:05,558] 97 werkzeug - INFO - 127.0.0.1 - - [10/Apr/2025 00:59:05] "POST /predict HTTP/1.1" 200 -
+[2025-04-10 00:59:05,619] 97 werkzeug - INFO - 127.0.0.1 - - [10/Apr/2025 00:59:05] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2025-04-10 01:00:22,392] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\mk744\\OneDrive - Poornima University\\Desktop\\IdentifyGender\\app.py', reloading

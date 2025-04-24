@@ -1,0 +1,11 @@
+[2025-04-09 23:41:37,939] 22 root - INFO - Logging setup completed successfully!
+[2025-04-09 23:41:41,650] 26 root - INFO - Data Ingestion methods Starts
+[2025-04-09 23:41:41,658] 29 root - INFO - Dataset read as pandas DataFrame
+[2025-04-09 23:41:41,658] 33 root - INFO - Train test split
+[2025-04-09 23:41:41,673] 38 root - INFO - Data Ingestion Completed
+[2025-04-09 23:41:41,679] 68 root - INFO - Read train and test data completed
+[2025-04-09 23:41:41,679] 69 root - INFO - Obtaining preprocessing object
+[2025-04-09 23:41:41,679] 26 root - INFO - Data Transformation initiated
+[2025-04-09 23:41:41,679] 35 root - INFO - Pipeline Initiated
+[2025-04-09 23:41:41,692] 90 root - INFO - Applied preprocessing to train and test
+[2025-04-09 23:41:41,694] 100 root - INFO - Saved preprocessor to pkl
